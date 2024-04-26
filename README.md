@@ -3,6 +3,7 @@
 **Description**: Our IR team took a disk dump of the android phone. As a soc analyst, analyze the dump and answer the provided questions.
 
 **Tools**
+
 DB Browser for SQLite
 Epoch Converter
 
